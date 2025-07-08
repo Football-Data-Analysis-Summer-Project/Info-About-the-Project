@@ -85,9 +85,7 @@ Click here to try the full platform:
 
 ---
 
-## 📸 Sneak Peek
 
-> Replace these with actual screenshots/GIFs if available:
 
 <img src="https://user-images.githubusercontent.com/your_screenshot_1.gif" width="100%">
 <img src="https://user-images.githubusercontent.com/your_screenshot_2.png" width="100%">
